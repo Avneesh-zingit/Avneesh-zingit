@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avneesh-zingit
-- 👀 I’m interested in ...Java and Javascript , Node.js,
+- 👀 I’m interested in ...Java and Javascript , Node.js, Sql
 - 🌱 I’m currently learning ...Backend, Rest API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
